@@ -4,7 +4,7 @@
  * SPDX-License-Identifier: MIT
  */
 
-#include <keys_se_finland_sweden.h>
+#include "keys_se_finland_sweden.h"
 #include <behaviors.dtsi>
 #include <dt-bindings/zmk/keys.h>
 
